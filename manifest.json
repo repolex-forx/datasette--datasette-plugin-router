@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-plugin-router",
+  "versions": [
+    {
+      "commit": "63e93bafcc54ab7b1ddf599a83c8624a208d63b6",
+      "parsed_at": "2026-10-12T16:55:32.514386+00:00",
+      "filetree": "filetree/63e93bafcc54ab7b1ddf599a83c8624a208d63b6.nq.gz",
+      "blobs": [
+        "blob/10e2a5456523c97c9eca92f7e3882954386119e2.nq.gz",
+        "blob/5390e9d171a99a9d1fdb0632d3fd2d629065a6fd.nq.gz",
+        "blob/e678a9a2ecc2918ade2fe745d4c70d5535bc218c.nq.gz",
+        "blob/84a1dd596f804b804f182285d07595410f4091ed.nq.gz",
+        "blob/1f7590aabdbcd5a5a173ced0ea5fc2c35f7ec498.nq.gz",
+        "blob/ca46042bf542b3ac1dde52807643367770e8da64.nq.gz",
+        "blob/ffb34f27b07633fd71bbb034f131dad8ab1c702a.nq.gz",
+        "blob/eb22e74eaaaf0edc4aa2c0f8900a55750d1660f9.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/d49d309499efb2c0c1d38efdd53056249a7d74d8.nq.gz",
+        "blob/3eb871944ba060e652582342cecb018b41f78bda.nq.gz",
+        "blob/caf73c3e1377850c5228b944f5d82a84f9aa666e.nq.gz",
+        "blob/c498fb0c70eb054e6b879ed0c10fe56844ee2d70.nq.gz",
+        "blob/b2cbc024a52fc6ec58220395194bb47c76849846.nq.gz",
+        "blob/fc079a8389b519ade7d4c459d2ad1891e9fccd87.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
